@@ -1,6 +1,6 @@
 # Screenig
 
-- MVVM Design Pattern.
+- MVVM Design Pattern..
 
 - TDD to be followed.
 
