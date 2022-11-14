@@ -17,7 +17,7 @@ Total number of input allowed should be `13`.
 ## TextField Input Rules
 
 When the input reaches `count of 2` an hypen `-` should be automatically added to the `3rd` position
-> input : `aC` -> `AC-`
+> input : `ac` -> `AC-`
 
 When input reaches `count of 6` an hypen `-` should be automatically added to the `7th` position
 > input : `AC-12b` -> `AC-12B-`
